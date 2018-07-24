@@ -1,4 +1,4 @@
-*.class
+*.class xxx
 *.iml
 .classpath
 .DS_Store
